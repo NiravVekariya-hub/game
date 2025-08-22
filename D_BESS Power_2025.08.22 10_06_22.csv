@@ -1,6 +1,4 @@
-,,BMS- Power,MPSA- Ouput P,Load MFM- Active Power,BMS- State of Charge,DG MFM- Active Power,Irradiation,Solar MFM- Active Power
-,,,,,,,,
-Date,Time,DATA,DATA,DATA,DATA,DATA,DATA,DATA
+Date,Time,BMS- Power,MPSA- Ouput P,Load MFM- Active Power,BMS- State of Charge,DG MFM- Active Power,Irradiation,Solar MFM- Active Power
 10-11-2024,05:24:31,0,0,0,10,13.4,0.7,-0.1
 10-11-2024,05:25:01,0,0,0,10,13.3,0.8,-0.1
 10-11-2024,05:25:31,0,0,0,10,13.3,0.8,-0.1
@@ -1834,3 +1832,4 @@ Date,Time,DATA,DATA,DATA,DATA,DATA,DATA,DATA
 10-11-2024,20:39:31,12,10.6,10,55,0,0.7,-0.1
 10-11-2024,20:40:01,14,11.3,10.7,55,0,0.6,-0.1
 10-11-2024,20:40:31,14,11.3,10.7,55,0,0.6,-0.1
+
